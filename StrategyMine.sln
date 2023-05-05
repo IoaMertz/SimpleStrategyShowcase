@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyMine", "StrategyMine\StrategyMine.csproj", "{AC2E3634-D744-4BEF-AD28-4516B681E30F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyMine", "StrategyMine\StrategyMine.csproj", "{AC2E3634-D744-4BEF-AD28-4516B681E30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutStrategy", "WithoutStrategy\WithoutStrategy.csproj", "{2A66EDF7-5A98-4A22-9BC1-5EF4D9A5B4CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutStrategy", "WithoutStrategy\WithoutStrategy.csproj", "{2A66EDF7-5A98-4A22-9BC1-5EF4D9A5B4CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDelegates", "StrategyDelegates\StrategyDelegates.csproj", "{822C17AE-C83E-4ED5-A334-A790409028DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyDelegates", "StrategyDelegates\StrategyDelegates.csproj", "{822C17AE-C83E-4ED5-A334-A790409028DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

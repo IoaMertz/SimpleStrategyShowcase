@@ -8,7 +8,7 @@
 
             Console.WriteLine(calculator.PerformOperation((int a, int b) => a + b, 2, 3));
 
-            Console.WriteLine(calculator.PerformOperation((int a , int b) => a*b, 2, 3));
+            Console.WriteLine(calculator.PerformOperation((int a , int b) => a * b, 2, 3));
 
 
 

@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StrategyMine
+namespace GenericStrategy
 {
-    public interface IOperation //Istrategy
+    public interface IContext<T> where T : IStrategy
     {
-        int Operation(int a, int b);
+
+        T Strategy { get; set; }
+        
 
     }
 }

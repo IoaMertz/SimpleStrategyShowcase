@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StrategyMine
 {
-    public class Multiply : IOperation
+    public class Multiply : IOperation //strategy2
     {
         public int Operation(int a, int b)
         {
